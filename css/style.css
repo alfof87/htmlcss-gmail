@@ -1,0 +1,49 @@
+body{
+  background-image: url(../img/wood.jpg);
+}
+/*parte iniziale logo*/
+#logo{
+  height: 100px;
+  vertical-align: middle;
+}
+span{
+  color: white;
+  font-size: 25px;
+}
+/*motore di ricerca*/
+button{
+  padding: 9px;
+  vertical-align: middle;
+}
+#scritta{
+  font-size: 28px;
+  color: white;
+  font-style:
+}
+#numero{
+  display: inline-block;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 50%;
+}
+/*parte centrale caselle*/
+#rett{
+  background-color: white;
+  border-bottom: solid 2px black;
+}
+#rettangolo{
+  background-color: #DCDCDC;
+  border-bottom: solid 2px black;
+}
+
+#scritta{
+  color: #A9A9A9;
+}
+#star{
+  color: black;
+}
+/*parte finale*/
+footer{
+  text-align: center;
+  color: white;
+}
